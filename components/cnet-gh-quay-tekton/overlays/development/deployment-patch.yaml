@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: rhtap-quay-quay-rhtap-quay.apps.cluster-4ldvx.4ldvx.sandbox2096.opentlc.com/rhtap/cnet-images:6c9c89e6d662b5ec757b7a246314af8223116300@sha256:d8324980ebdca0526f15e4797e26ed1034270b458c745a0e2e0965e9812e57ed
+        - image: rhtap-quay-quay-rhtap-quay.apps.cluster-4ldvx.4ldvx.sandbox2096.opentlc.com/rhtap/cnet-images:8e5f2c10fac14e48e104baf188e90e7b1530d78b@sha256:a67ff8beb389f7ae1b53f59a26b253526a0af8fd38a541ce32446ddbe1ab8b0d
           name: container-image
